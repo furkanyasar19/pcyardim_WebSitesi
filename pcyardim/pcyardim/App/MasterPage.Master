@@ -1,0 +1,72 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="pcyardim.App.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>pcyardim</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link href="Css/navbarStil.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <marquee style="background-color: #fafafa" onmouseover="this.stop()" onmouseout="this.start()" scrollamount="5" scrolldelay="75" direction="right" height="25px;" align="justify">
+                <h5>
+                    <span style="color:red">Günün Sözü:</span>
+                    Eğer vermek istemeseydi, istemek vermezdi.
+                    RNK
+                </h5>
+            </marquee>
+            <nav class="navbar navbar-inverse navbarAyar">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar" style="background-color: #646363">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="Default.aspx">
+                            <img src="img/PCYARDIM.png" class="logoGizle" style="position: relative; top: -18px" />
+                        </a>
+                    </div>
+                    <div class="collapse navbar-collapse" id="myNavbar">
+                        <ul class="nav navbar-nav navbarAyar">
+                            <li>
+                                <asp:Label ID="lblGirisMesaj" runat="server" Text=""></asp:Label>
+                            </li>
+                        </ul>
+                        <ul class="nav navbar-nav navbar-right">
+                            <li>
+                                <asp:LinkButton ID="lnkCikis" CssClass="cikisAyar" runat="server" OnClick="lnkCikis_Click">Çıkış</asp:LinkButton>
+                            </li>
+                            <li>
+                                <asp:TextBox ID="txtKAd" CssClass="girisKaydol" placeholder="Kullanıcı Adı" runat="server"></asp:TextBox>
+                            </li>
+                            <li>
+                                <asp:TextBox ID="txtParola" CssClass="girisKaydol" placeholder="Parola" type="password" runat="server"></asp:TextBox>
+                            </li>
+                            <li>
+                                <asp:Button ID="btnGiris" OnClick="btnGiris_Click" CssClass="girisButon" runat="server" Text="Giriş Yap" />
+                            </li>
+                            <li>
+                                <asp:LinkButton ID="lnkUyeOl" PostBackUrl="~/App/SignUp.aspx" CssClass="uyeOl" runat="server">Üye Ol</asp:LinkButton><br />
+                            </li>
+                            <li style="position:relative;top:12px">
+                                <asp:Label ID="lblSonuc" runat="server" Text="" CssClass="label label-danger"></asp:Label>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

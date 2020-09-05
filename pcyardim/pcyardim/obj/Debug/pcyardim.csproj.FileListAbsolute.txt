@@ -1,0 +1,230 @@
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\pcyardim.dll.config
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\pcyardim.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\pcyardim.pdb
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\csc.exe
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\csc.exe.config
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\csc.rsp
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\csi.exe
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\csi.exe.config
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\csi.rsp
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.AppContext.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Console.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.IO.Compression.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.IO.Pipes.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.Claims.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Threading.Thread.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.ValueTuple.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Xml.XPath.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\vbc.exe
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\vbc.exe.config
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\vbc.rsp
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\VBCSCompiler.exe
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\obj\Debug\pcyardim.csproj.CoreCompileInputs.cache
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\obj\Debug\pcyardim.csproj.CopyComplete
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\obj\Debug\pcyardim.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\obj\Debug\pcyardim.pdb
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\obj\Debug\pcyardim.csprojResolveAssemblyReference.cache
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\pcyardim.dll.config
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\pcyardim.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\pcyardim.pdb
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\csc.exe
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\csc.exe.config
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\csc.rsp
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\csi.exe
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\csi.exe.config
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\csi.rsp
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.AppContext.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Console.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.IO.Compression.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.IO.Pipes.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.Claims.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Threading.Thread.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.ValueTuple.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Xml.XPath.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\vbc.exe
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\vbc.exe.config
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\vbc.rsp
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\VBCSCompiler.exe
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\obj\Debug\pcyardim.dll
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\obj\Debug\pcyardim.pdb
+C:\Users\11C1\Desktop\1294_Furkan Yaşar\pcyardim\pcyardim\obj\Debug\pcyardim.csprojResolveAssemblyReference.cache
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\pcyardim.dll.config
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\pcyardim.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\pcyardim.pdb
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\csc.exe
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\csc.exe.config
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\csc.rsp
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\csi.exe
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\csi.exe.config
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\csi.rsp
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.AppContext.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Console.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.IO.Compression.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.IO.Pipes.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.Claims.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Threading.Thread.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.ValueTuple.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Xml.XPath.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\vbc.exe
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\vbc.exe.config
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\vbc.rsp
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\VBCSCompiler.exe
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\obj\Debug\pcyardim.csprojResolveAssemblyReference.cache
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\obj\Debug\pcyardim.csproj.CoreCompileInputs.cache
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\obj\Debug\pcyardim.csproj.CopyComplete
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\obj\Debug\pcyardim.dll
+C:\Users\FurkanYasar\Desktop\BİLİŞİM\1294_Furkan Yaşar\pcyardim\pcyardim\obj\Debug\pcyardim.pdb
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\pcyardim.dll.config
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\pcyardim.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\pcyardim.pdb
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\csc.exe
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\csc.exe.config
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\csc.rsp
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\csi.exe
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\csi.exe.config
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\csi.rsp
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.AppContext.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Console.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.IO.Compression.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.IO.Pipes.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.Claims.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Threading.Thread.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.ValueTuple.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Xml.XPath.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\vbc.exe
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\vbc.exe.config
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\vbc.rsp
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\VBCSCompiler.exe
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\obj\Debug\pcyardim.csprojResolveAssemblyReference.cache
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\obj\Debug\pcyardim.csproj.CoreCompileInputs.cache
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\obj\Debug\pcyardim.csproj.CopyComplete
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\obj\Debug\pcyardim.dll
+C:\Users\FurkanYasar\Desktop\1294_Furkan Yaşar\1294_Furkan Yaşar\pcyardim\pcyardim\obj\Debug\pcyardim.pdb

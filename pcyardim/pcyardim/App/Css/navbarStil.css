@@ -1,0 +1,38 @@
+﻿body {
+    background-color: #fafafa !important;
+}
+.navbarAyar {
+    border-radius: 0 !important;
+    padding: 15px !important;
+    border: none !important;
+    background-color: #fafafa !important;
+
+}
+    @media (min-width:830px) {
+        .navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+        vertical-align: top;
+    }
+
+    .navbar .navbar-collapse {
+        text-align: right;
+    }
+}
+@media (max-width:830px) {
+    .logoGizle {
+        display:none !important;
+    }
+}
+@media (max-width:767px) {
+    .logoGizle {
+        display: block !important;
+    }
+}
+.cikisAyar {
+    color: black !important;
+    transition: all .5s;
+}
+    .cikisAyar:hover {
+        color: #e60000 !important;
+    }
